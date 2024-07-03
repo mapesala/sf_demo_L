@@ -1,4 +1,6 @@
 
+use database demo;
+
 CREATE SCHEMA DEMO; 
 
 USE SCHEMA DEMO; 
